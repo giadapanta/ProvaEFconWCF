@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace Esercitazione.WCFService
 {
+    //BO
     [ServiceContract]
     public interface IBookService
     {
